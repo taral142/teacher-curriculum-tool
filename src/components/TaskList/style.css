@@ -1,0 +1,31 @@
+.tool-container{
+    width: 60%;
+    height: 70px;
+    margin: 80px auto;
+    background-color: #195190FF;
+    opacity: 0.7;
+    border-radius: 10px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.basic-details {
+    color: #fff;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+}
+
+.basic-details p{
+    font-size: 14px;
+    margin-right: 280px;
+    margin-top: 8px;
+    padding: 0;
+}
+
+.s{
+    color: rgb(231, 199, 138);
+}

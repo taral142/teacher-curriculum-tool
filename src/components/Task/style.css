@@ -1,0 +1,58 @@
+
+
+.task-row {
+    display: flex;
+    justify-content: left;
+    width: 100%;
+    background-color: #FAEBD7;
+    opacity: 0.9;
+    margin: 0 auto;
+    border-bottom: 1px solid rgb(56, 52, 45);
+    border-radius: 5px;
+}
+
+.task-icones {
+    margin: 13px;
+}
+
+.task-icones i {
+    margin:0 5px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+
+.task-icones i:hover {
+    color: blue;
+}
+
+.task-box {
+    margin: 10px;
+}
+
+.task-text {
+    margin-left: 200px;
+    padding:3px 3px;
+    font-size: 14px;
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+.task-box-input {
+    margin:10px;
+    
+}
+
+.task-box-input input {
+    margin-left: 200px;
+    padding: 4px 4px;
+}
+
+.task-box-input button {
+    padding: 4px 4px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+.task-box-input button:hover {
+    color: blue;
+}

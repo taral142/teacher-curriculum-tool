@@ -1,0 +1,29 @@
+.task-form {
+    display: flex;
+    justify-content: center;
+    padding-top:20px;
+    padding-bottom: 50px;
+}
+
+.task-form input {
+    padding: 5px 15px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+
+.task-form button {
+    padding: 6px 16px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    margin-left: 5px;
+    background-color: rgb(231, 199, 138);
+    transition: all 0.4s ease-in-out;
+    font-weight: 400;
+}
+
+.task-form button:hover {
+    background-color: rgb(183, 150, 214);
+}
