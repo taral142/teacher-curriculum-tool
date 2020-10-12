@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7d7a424da32f134d4c8d220e4d2eeaea",
+    "revision": "885b5645777c5c9f6623cf46adff8683",
     "url": "/teacher-curriculum-tool/index.html"
   },
   {
-    "revision": "0a5c6ac447b07ba27d06",
+    "revision": "8faed04b0087890a21ae",
     "url": "/teacher-curriculum-tool/static/css/main.3e26cfa1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/teacher-curriculum-tool/static/js/2.1342e7e4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a5c6ac447b07ba27d06",
-    "url": "/teacher-curriculum-tool/static/js/main.9bf589a4.chunk.js"
+    "revision": "8faed04b0087890a21ae",
+    "url": "/teacher-curriculum-tool/static/js/main.c5168b70.chunk.js"
   },
   {
     "revision": "f9b44b056b6f1f8ebd25",
