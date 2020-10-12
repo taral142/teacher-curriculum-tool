@@ -7,7 +7,12 @@ import './style.css'
 
 const TaskList = (props) => {
 
-    const [tasks,setTasks] = useState(JSON.parse(localStorage.getItem('tasks')));
+    let  dummyTasks = [];
+    if(localStorage.getItem('tasks')!==null)
+      dummyTasks = JSON.parse(localStorage.getItem('tasks'));
+
+
+    const [tasks,setTasks] = useState(dummyTasks);
     const [updetedText,setText] = useState('');
 
     const addTask = (task) => {
