@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/teacher-curriculum-tool/static/css/main.3e26cfa1.chunk.css",
+    "main.js": "/teacher-curriculum-tool/static/js/main.9bf589a4.chunk.js",
+    "main.js.map": "/teacher-curriculum-tool/static/js/main.9bf589a4.chunk.js.map",
+    "runtime-main.js": "/teacher-curriculum-tool/static/js/runtime-main.98b149e4.js",
+    "runtime-main.js.map": "/teacher-curriculum-tool/static/js/runtime-main.98b149e4.js.map",
+    "static/js/2.1342e7e4.chunk.js": "/teacher-curriculum-tool/static/js/2.1342e7e4.chunk.js",
+    "static/js/2.1342e7e4.chunk.js.map": "/teacher-curriculum-tool/static/js/2.1342e7e4.chunk.js.map",
+    "index.html": "/teacher-curriculum-tool/index.html",
+    "precache-manifest.8379dbe7d29f9bda1bc4fc356704d470.js": "/teacher-curriculum-tool/precache-manifest.8379dbe7d29f9bda1bc4fc356704d470.js",
+    "service-worker.js": "/teacher-curriculum-tool/service-worker.js",
+    "static/css/main.3e26cfa1.chunk.css.map": "/teacher-curriculum-tool/static/css/main.3e26cfa1.chunk.css.map",
+    "static/js/2.1342e7e4.chunk.js.LICENSE.txt": "/teacher-curriculum-tool/static/js/2.1342e7e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98b149e4.js",
+    "static/js/2.1342e7e4.chunk.js",
+    "static/css/main.3e26cfa1.chunk.css",
+    "static/js/main.9bf589a4.chunk.js"
+  ]
+}
